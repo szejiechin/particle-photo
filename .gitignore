@@ -1,0 +1,27 @@
+node_modules/
+.vite/
+out/
+dist/
+coverage/
+test-results/
+playwright-report/
+*.log
+.DS_Store
+Thumbs.db
+assets/models/*.onnx
+assets/models/*.task
+!assets/models/README.md
+assets/models/cache/
+public/mediapipe/
+public/models/gesture_recognizer.task
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Internal planning documents are retained locally but not published.
+PRD.md
+DEVELOPMENT_PLAN.md

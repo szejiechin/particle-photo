@@ -1,0 +1,22 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  windows-quality-gates:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm run audit:ui
+      - run: npm run audit:security
+      - run: npm run verify:models
+      - run: npm run check
+      - run: npm run test:acceptance:images
+      - run: npm run package

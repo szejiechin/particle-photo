@@ -1,0 +1,122 @@
+[
+  {
+    "file": "image-01.jpg",
+    "ok": true,
+    "durationMs": 652,
+    "depthRange": 6.61973762512207
+  },
+  {
+    "file": "image-02.jpg",
+    "ok": true,
+    "durationMs": 754,
+    "depthRange": 6.094348907470703
+  },
+  {
+    "file": "image-03.jpg",
+    "ok": true,
+    "durationMs": 590,
+    "depthRange": 4.709105879068375
+  },
+  {
+    "file": "image-04.jpg",
+    "ok": true,
+    "durationMs": 599,
+    "depthRange": 4.621078968048096
+  },
+  {
+    "file": "image-05.jpg",
+    "ok": true,
+    "durationMs": 583,
+    "depthRange": 10.094388961791992
+  },
+  {
+    "file": "image-06.jpg",
+    "ok": true,
+    "durationMs": 586,
+    "depthRange": 5.9753546714782715
+  },
+  {
+    "file": "image-07.jpg",
+    "ok": true,
+    "durationMs": 582,
+    "depthRange": 5.447251796722412
+  },
+  {
+    "file": "image-08.jpg",
+    "ok": true,
+    "durationMs": 590,
+    "depthRange": 6.022528171539307
+  },
+  {
+    "file": "image-09.jpg",
+    "ok": true,
+    "durationMs": 592,
+    "depthRange": 6.802084445953369
+  },
+  {
+    "file": "image-10.jpg",
+    "ok": true,
+    "durationMs": 574,
+    "depthRange": 6.018649101257324
+  },
+  {
+    "file": "image-11.jpg",
+    "ok": true,
+    "durationMs": 594,
+    "depthRange": 1.5378388166427612
+  },
+  {
+    "file": "image-12.jpg",
+    "ok": true,
+    "durationMs": 598,
+    "depthRange": 4.470508575439453
+  },
+  {
+    "file": "image-13.jpg",
+    "ok": true,
+    "durationMs": 599,
+    "depthRange": 5.852669715881348
+  },
+  {
+    "file": "image-14.jpg",
+    "ok": true,
+    "durationMs": 598,
+    "depthRange": 4.771055221557617
+  },
+  {
+    "file": "image-15.jpg",
+    "ok": true,
+    "durationMs": 583,
+    "depthRange": 3.435953140258789
+  },
+  {
+    "file": "image-16.jpg",
+    "ok": true,
+    "durationMs": 585,
+    "depthRange": 4.187570605427027
+  },
+  {
+    "file": "image-17.jpg",
+    "ok": true,
+    "durationMs": 587,
+    "depthRange": 5.163174629211426
+  },
+  {
+    "file": "image-18.jpg",
+    "ok": true,
+    "durationMs": 597,
+    "depthRange": 7.026768207550049
+  },
+  {
+    "file": "image-19.jpg",
+    "ok": true,
+    "durationMs": 586,
+    "depthRange": 4.668911933898926
+  },
+  {
+    "file": "image-20.jpg",
+    "ok": true,
+    "durationMs": 577,
+    "depthRange": 7.958859920501709
+  }
+]
